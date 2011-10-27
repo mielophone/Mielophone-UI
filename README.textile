@@ -1,0 +1,69 @@
+h1. Mielophone GUI
+
+This repository contains Mielophone GUI components.
+
+h2. Repository Structure
+
+* wireframes — Mielophone views wireframes and guidelines
+* components — Isolated component library
+* views — Complete views
+** previews — Views actual preview
+
+h2. Goal
+
+TBD
+
+h2. Main concepts
+
+TBD
+
+h2. Components list
+
+h3. Player controls
+
+Main control. Placed on top of player, used for current track playback control.
+
+* Playback controls (Prev, Play/Pause, Next)
+* Volume slider
+* Current track name (Track name, Artist, Album)
+* Time slider (w/ buffering progress bar)
+* Search field
+
+h3. Toolbar
+
+Placed under "Player controls". Displays current page state. Layout depends on context
+
+* "Back" button
+* Navigation bar w/ drop-drown menus
+* View controls
+
+h2. Reference table
+
+h3. Typography
+
+Main font is *Helvetica Neue*.
+
+* Text Regular, 12pt, w/ line-spacing 16pt
+* h1: Bold, 22pt, w/ line-spacing 21pt
+* h2: Bold, 16pt, w/ line-spacing 17pt
+* h3: Bold, 13pt, w/ line-spacing 14pt
+
+h3. Colors
+
+Typography:
+
+* Main font color: White (#FFFFFF)
+* Secondary font color: Light gray (#999999)
+* Sub-title color: Semi-Dark gray (#8a8d90)
+
+Components:
+
+* Panel background: Dark gray (#232527)
+
+h2. License
+
+TBA
+
+h2. Copyright
+
+* Interface components based on "Premium Pixels":http://www.premiumpixels.com/ freebies. Thanks, Orman!
