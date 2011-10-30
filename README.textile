@@ -48,6 +48,11 @@ Main font is *Helvetica Neue*.
 * h2: Bold, 16pt, w/ line-spacing 17pt
 * h3: Bold, 13pt, w/ line-spacing 14pt
 
+*Baseline grid* (ver)
+
+* Baseline grid is 16px
+* Baseline grid offset 8px (top)
+
 h3. Colors
 
 Typography:
